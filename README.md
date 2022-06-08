@@ -16,8 +16,7 @@ The application should:
 ● Store the user’s name
 ● view the highest score of the user, and even reset the
 score.
-● Divides into two rounds. Users must pass the first round
-to reach the second one
+● Divides into two rounds-->Users must pass the first round to reach the second one
 ● Displaying all question fields.
 ● The user chooses the field.
 ● Saving the users’ name and their highest score in a file or
